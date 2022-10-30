@@ -9,7 +9,7 @@ import Sponsors from "../components/sponsors"
 import Footer from "../components/footer"
 import { graphql } from "gatsby"
 
-export default ({ data }) => {
+const Index = ({ data }) => {
   const configData = data.site.siteMetadata
 
   return (
@@ -88,6 +88,8 @@ export default ({ data }) => {
     </Layout>
   )
 }
+
+export default Index;
 
 export const query = graphql`
   query HomePageQuery {

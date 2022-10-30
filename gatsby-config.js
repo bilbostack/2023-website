@@ -9,7 +9,17 @@ module.exports = {
   siteMetadata: _data,
   plugins: [
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sass`, 
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        cssLoaderOptions: {
+          esModule: false,
+          modules: {
+            namedExport: false,
+          },
+        },
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
