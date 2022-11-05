@@ -11,8 +11,8 @@ export default ({ data }) => (
         </div>
         <div className="col-sm-5 text-center">
           <p class="lead">{data.conference_date}</p>
-          <a
-            class="btn btn-primary btn-lg"
+          <a 
+            class={data.header_banner.cta_visible === true ? "btn btn-primary btn-lg" : "hidden"}
             href={data.header_banner.cta_url}
             role="button"
           >
