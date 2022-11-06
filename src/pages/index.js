@@ -2,7 +2,7 @@ import React from "react"
 import Meta from "../components/meta"
 import Layout from "../components/layout"
 import SpeakerCard from "../components/speakerCard"
-import Header from "../components/headerHome"
+import HeaderHome from "../components/headerHome"
 import Agenda from "../components/agenda"
 import LocationMap from "../components/locationMap"
 import Sponsors from "../components/sponsors"
@@ -20,7 +20,7 @@ const Index = ({ data }) => {
         og_description="Profesionales referencia del sector tecnológico vendrán a Bilbao a compartir sus conocimientos
               sobre las diferentes temáticas más relevantes en la actualidad."
       />
-      <Header data={configData} />
+      <HeaderHome data={configData} />
 
       <section id="stats">
         <div className="container">

@@ -16,7 +16,7 @@ cd 2023-website/
 
 yarn install  
 
-gatsby develop  
+yarn start  
 ```
 
 3.  **Open the source code and start editing!**

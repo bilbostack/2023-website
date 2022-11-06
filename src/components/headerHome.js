@@ -1,6 +1,6 @@
 import React from "react"
 
-export default ({ data }) => {
+const HeaderHome = ({ data }) => {
   function claimWithHtml() {
     return { __html: data.conference_claim }
   }
@@ -31,3 +31,5 @@ export default ({ data }) => {
     </header>
   )
 }
+
+export default HeaderHome;
