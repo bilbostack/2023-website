@@ -45,7 +45,7 @@ const Index = ({ data }) => {
         <section id="presentation" class="text-center">
           <h2>
             {configData.home.title} <a 
-              href="https://twitter.com/hashtag/bilbostack22" 
+              href="https://twitter.com/hashtag/bilbostack23" 
               target="_blank" 
               rel="noopener noreferrer"><span>{configData.conference_hashtag}</span>
             </a>
