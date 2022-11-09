@@ -26,6 +26,20 @@ const HeaderHome = ({ data }) => {
               {data.header_banner.cta_text}
             </a>
           </div>
+          <br /><br />
+          <div id="dossier">
+            <h5>
+              <span>
+                👉 Echa un ojo a nuestras&nbsp;
+                <a href="/sponsors/bilbostack-sponsors-2023_es.pdf" 
+                  target="_blank" 
+                  role="button" 
+                  rel="noopener noreferrer">
+                    opciones de patrocinio
+                </a> 👈
+              </span>
+            </h5>
+          </div>
         </div>
       </div>
     </header>

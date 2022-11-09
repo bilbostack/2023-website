@@ -250,5 +250,16 @@ section{
     display: none;
 }
 
+#dossier{
+    a {
+        color: #fff;
+        font-weight: bold;
+    }
+    a:hover {
+        color: #EFCA08;
+        font-weight: bold;
+    }
+}
+
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
