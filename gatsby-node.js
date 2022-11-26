@@ -67,6 +67,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
                         twitter,
                         linkedin,
                         github,
+                        gitlab,
                         web
                     }
                     talk{

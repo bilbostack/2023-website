@@ -8,7 +8,8 @@ import {
   FaTwitter,
   FaLinkedin,
   FaGithub,
-  FaWeebly,
+  FaGitlab,
+  FaRssSquare,
 } from "react-icons/fa"
 
 const SpeakerTemplate = context => {
@@ -76,9 +77,17 @@ const SpeakerTemplate = context => {
                   ""
                 )}
                 &nbsp;
+                {speaker.social.gitlab ? (
+                  <a href={speaker.social.gitlab} target="_blank" rel="noopener noreferrer">
+                    <FaGitlab />
+                  </a>
+                ) : (
+                  ""
+                )}
+                &nbsp;
                 {speaker.social.web ? (
                   <a href={speaker.social.web} target="_blank" rel="noopener noreferrer">
-                    <FaWeebly />
+                    <FaRssSquare />
                   </a>
                 ) : (
                   ""
