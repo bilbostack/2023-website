@@ -49,16 +49,16 @@ module.exports =
         },
         {
             "visible": true,
-            "slug": "meritxell-calvo",
-            "company": "Senior Ruby Engineer @ Carwow",
-            "image": "/speakers/meritxell-calvo.jpg",
-            "name": "Meritxell Calvo",
-            "bio": "Meritxell Calvo es programadora senior especializada en el ecosistema Ruby. Lleva más de una década trabajado como programadora en diversos lenguajes y empresas locales e internacionales, ayudando a las organizaciones a implementar el paradigma ágil desde la base. Actualmente trabaja como Senior Engineer en Carwow.",
+            "slug": "rosa-gutierrez",
+            "company": "--",
+            "image": "/speakers/rosa-gutierrez.jpg",
+            "name": "Rosa Gutiérrez",
+            "bio": "",
             "social": {
-                "twitter": "https://twitter.com/nyan_dev",
-                "linkedin": "https://www.linkedin.com/in/meritxell-calvo-palanques-a70b4a58",
+                "twitter": "",
+                "linkedin": "",
                 "github": "",
-                "gitlab": "https://gitlab.com/nyan_dev",
+                "gitlab": "",
                 "web": ""
             },
             "talk": {
@@ -87,25 +87,6 @@ module.exports =
         },
         {
             "visible": true,
-            "slug": "debbie-obrien",
-            "company": "Senior Program Manager @ Microsoft",
-            "image": "/speakers/debbie-obrien.jpg",
-            "name": "Debbie O’Brien",
-            "bio": "Senior Program Manager at Microsoft. Over 10 years experience in Frontend development. Google Developer Expert in web technologies, GitHub Star Alumni and Cloudinary Media Developer Expert, Nuxt Ambassador and previous Microsoft Most Valuable Professional in developer technologies. International Speaker. Teacher at Vue School and Jamstack Explorers. Writer for Ultimate Courses.",
-            "social": {
-                "twitter": "https://twitter.com/debs_obrien",
-                "linkedin": "https://www.linkedin.com/in/debbie-o-brien-1a199975/",
-                "github": "https://github.com/debs-obrien",
-                "gitlab": "",
-                "web": "https://debbie.codes/"
-            },
-            "talk": {
-                "title": "Tests e2e con Playwright",
-                "description": "¿Quien ha dicho que testing es aburrido y difícil? Voy a enseñarte que testing es divertido y mucho más fácil con herramientas como el Codegen, que genera tus tests, grabando tus user actions. Y lo mejor, es que podemos hacer casi todo desde VS Code. Ven a divertirte y a aprender un poco sobre testing con Playwright, una librería de testing e2e open source de Microsoft."
-            }
-        },
-        {
-            "visible": true,
             "slug": "gema-parreno",
             "company": "Developer Advocate @ Iterative",
             "image": "/speakers/gema-parreno.jpg",
@@ -121,25 +102,6 @@ module.exports =
             "talk": {
                 "title": "El señor de las palabras: El retorno de los Experimentos con DVC",
                 "description": "Aprenderemos sobre la arquitectura de Transformers con TensorFlow 2.10 y DVC dentro del alcance de la traducción desde 9 idiomas diferentes al inglés. Exploraremos la extensión DVC para VSCode para lanzar experimentos y transformar el IDE en una plataforma de experimentación de machine learning  <br/><br/>¿Te apasiona el Señor de los anillos ? <br/><br/>No te pierdas la charla con un montón de lore."
-            }
-        },
-        {
-            "visible": true,
-            "slug": "rosa-gutierrez",
-            "company": "--",
-            "image": "/speakers/rosa-gutierrez.jpg",
-            "name": "Rosa Gutiérrez",
-            "bio": "",
-            "social": {
-                "twitter": "",
-                "linkedin": "",
-                "github": "",
-                "gitlab": "",
-                "web": ""
-            },
-            "talk": {
-                "title": "TBD",
-                "description": "TBD"
             }
         },
         {
@@ -182,6 +144,25 @@ module.exports =
         },
         {
             "visible": true,
+            "slug": "meritxell-calvo",
+            "company": "Senior Ruby Engineer @ Carwow",
+            "image": "/speakers/meritxell-calvo.jpg",
+            "name": "Meritxell Calvo",
+            "bio": "Meritxell Calvo es programadora senior especializada en el ecosistema Ruby. Lleva más de una década trabajado como programadora en diversos lenguajes y empresas locales e internacionales, ayudando a las organizaciones a implementar el paradigma ágil desde la base. Actualmente trabaja como Senior Engineer en Carwow.",
+            "social": {
+                "twitter": "https://twitter.com/nyan_dev",
+                "linkedin": "https://www.linkedin.com/in/meritxell-calvo-palanques-a70b4a58",
+                "github": "",
+                "gitlab": "https://gitlab.com/nyan_dev",
+                "web": ""
+            },
+            "talk": {
+                "title": "TBD",
+                "description": "TBD"
+            }
+        },
+        {
+            "visible": true,
             "slug": "aleix-morgadas",
             "company": "Head of Engineering @ AtomicJar",
             "image": "/speakers/aleix-morgadas.jpg",
@@ -197,6 +178,25 @@ module.exports =
             "talk": {
                 "title": "Diseña y ejecuta tu propia estrategia de ingeniería",
                 "description": "¿Qué esperamos de una estrategia de ingeniería? ¿Cómo esta se relaciona con negocio? ¿Cómo los equipos pueden aportar durante el proceso? ¿Cómo lo comunicamos a las personas? ¿Cómo hacemos que pase? ¿Cómo esto afecta a la arquitectura y al negocio? <br/><br/>Estas son algunas de las preguntas que nos hacemos cuando nos afrentamos por primera vez al 'necesitamos una estrategia'. <br/><br/>En esta charla veremos que es una estrategia de ingeniería (y que no es), la importancia de la colaboración durante todo el proceso y como herramientas como #DDD, #TeamTopologies, #WardleyMapping y #SystemThinking nos pueden ayudar a diseñar nuestra estrategia."
+            }
+        },
+        {
+            "visible": true,
+            "slug": "debbie-obrien",
+            "company": "Senior Program Manager @ Microsoft",
+            "image": "/speakers/debbie-obrien.jpg",
+            "name": "Debbie O’Brien",
+            "bio": "Senior Program Manager at Microsoft. Over 10 years experience in Frontend development. Google Developer Expert in web technologies, GitHub Star Alumni and Cloudinary Media Developer Expert, Nuxt Ambassador and previous Microsoft Most Valuable Professional in developer technologies. International Speaker. Teacher at Vue School and Jamstack Explorers. Writer for Ultimate Courses.",
+            "social": {
+                "twitter": "https://twitter.com/debs_obrien",
+                "linkedin": "https://www.linkedin.com/in/debbie-o-brien-1a199975/",
+                "github": "https://github.com/debs-obrien",
+                "gitlab": "",
+                "web": "https://debbie.codes/"
+            },
+            "talk": {
+                "title": "Tests e2e con Playwright",
+                "description": "¿Quien ha dicho que testing es aburrido y difícil? Voy a enseñarte que testing es divertido y mucho más fácil con herramientas como el Codegen, que genera tus tests, grabando tus user actions. Y lo mejor, es que podemos hacer casi todo desde VS Code. Ven a divertirte y a aprender un poco sobre testing con Playwright, una librería de testing e2e open source de Microsoft."
             }
         }
     ],
