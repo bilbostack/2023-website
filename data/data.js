@@ -106,6 +106,44 @@ module.exports =
         },
         {
             "visible": true,
+            "slug": "gema-parreno",
+            "company": "Developer Advocate @ Iterative",
+            "image": "/speakers/gema-parreno.jpg",
+            "name": "Gema Parreño Piqueras",
+            "bio": "Gema Parreño es GDE de Machine Learning y developer Advocate en Iterative, compañía Open Source que construye herramientas para mejorar los procesos de Machine Learning. <br/><br/>Gema ha contribuido OpenSource para StarCraft II y sido premiada por NASA Space App challenge, además de pasar por Google Brain para Stadia.",
+            "social": {
+                "twitter": "https://twitter.com/SoyGema",
+                "linkedin": "",
+                "github": "https://github.com/SoyGema",
+                "gitlab": "",
+                "web": ""
+            },
+            "talk": {
+                "title": "El señor de las palabras: El retorno de los Experimentos con DVC",
+                "description": "Aprenderemos sobre la arquitectura de Transformers con TensorFlow 2.10 y DVC dentro del alcance de la traducción desde 9 idiomas diferentes al inglés. Exploraremos la extensión DVC para VSCode para lanzar experimentos y transformar el IDE en una plataforma de experimentación de machine learning  <br/><br/>¿Te apasiona el Señor de los anillos ? <br/><br/>No te pierdas la charla con un montón de lore."
+            }
+        },
+        {
+            "visible": true,
+            "slug": "rosa-gutierrez",
+            "company": "--",
+            "image": "/speakers/rosa-gutierrez.jpg",
+            "name": "Rosa Gutiérrez",
+            "bio": "",
+            "social": {
+                "twitter": "",
+                "linkedin": "",
+                "github": "",
+                "gitlab": "",
+                "web": ""
+            },
+            "talk": {
+                "title": "TBD",
+                "description": "TBD"
+            }
+        },
+        {
+            "visible": true,
             "slug": "nuria-soriano",
             "company": "Desarrolladora de Software @ Codely",
             "image": "/speakers/nuria-soriano.jpg",
