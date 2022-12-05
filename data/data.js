@@ -205,7 +205,7 @@ module.exports =
         "time_slots": ["9:00-9:20", "9:30-10:20", "10:30-11:20", "11:30-12:00", "12:00-12:50", "13:00-13:50", "13:50-14:00"],
         "tracks":[
             {
-                "name": "Sala A",
+                "name": "Sala 0B",
                 "content_in_slots": [
                     {
                         "type": "text",
@@ -238,7 +238,7 @@ module.exports =
                 ]
             },
             {
-                "name": "Sala B",
+                "name": "Sala 0D",
                 "content_in_slots": [
                     {
                         "type": "text",
