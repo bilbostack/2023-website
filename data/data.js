@@ -390,8 +390,8 @@ module.exports =
             "external": true
         },
         {
-            "link": "https://2022.bilbostack.com/",
-            "title": "Edición del 2022",
+            "link": "https://landing.bilbostack.com/",
+            "title": "En anteriores ediciones ...",
             "external": true
         }
 

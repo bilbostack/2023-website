@@ -250,14 +250,26 @@ section{
     display: none;
 }
 
-#dossier{
-    a {
-        color: #fff;
-        font-weight: bold;
+.container{
+    #dossier{
+        a {
+            color: $white;
+            font-weight: bold;
+        }
+        a:hover {
+            color: $primary;
+            font-weight: bold;
+        }
     }
-    a:hover {
-        color: #EFCA08;
-        font-weight: bold;
+    .external-agenda {
+        a {
+            color: $secondary2;
+            font-weight: bold;
+        }
+        a:hover {
+            color: $primary;
+            font-weight: bold;
+        }
     }
 }
 
