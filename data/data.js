@@ -163,7 +163,7 @@ module.exports =
         }
     ],
     "agenda": {
-        "visible": true,
+        "visible": false,
         "time_slots": ["9:00-9:20", "9:30-10:20", "10:30-11:20", "11:30-12:00", "12:00-12:50", "13:00-13:50", "13:50-14:00"],
         "tracks":[
             {
@@ -270,7 +270,7 @@ module.exports =
             ]
         },
         {
-            "visible": true,
+            "visible": false,
             "name": "Patrocinadores Platino",
             "sponsors": [
                 {
@@ -282,7 +282,7 @@ module.exports =
             ]
         },
         {
-            "visible": true,
+            "visible": false,
             "name": "Patrocinadores Oro",
             "sponsors": [
                 {
@@ -294,7 +294,7 @@ module.exports =
             ]
         },
         {
-            "visible": true,
+            "visible": false,
             "name": "Patrocinadores Plata",
             "sponsors": [
                 {
@@ -306,7 +306,7 @@ module.exports =
             ]
         },
         {
-            "visible": true,
+            "visible": false,
             "name": "Patrocinadores Bronce",
             "sponsors": [
                 {
