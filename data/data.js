@@ -43,27 +43,27 @@ module.exports =
                 "web": "https://gloria.design"
             },
             "talk": {
-                "title": "TBD",
-                "description": "TBD"
+                "title": "Salu2 desde 1999",
+                "description": "Los años en los que el acceso a los datos y los actos viles se ejercían de manera artesanal y en baja intensidad ya pasaron. <br/><br/>Hemos normalizado el voyeurismo, el terrorismo de la información, la super velocidad y hemos renunciado a nuestra privacidad y derechos fundamentales básicos. Como dijo el gran Ian Malcom en Jurassic Park, 'a sus científicos les preocupaba tanto si podían o no podían hacerlo que no se pararon a pensar si debían'. <br/><br/>No seamos esos científicos."
             }
         },
         {
             "visible": true,
             "slug": "rosa-gutierrez",
-            "company": "--",
+            "company": "Lead Programmer @ 37signals",
             "image": "/speakers/rosa-gutierrez.jpg",
-            "name": "Rosa Gutiérrez",
-            "bio": "",
+            "name": "Rosa Gutiérrez Escudero",
+            "bio": "Rosa es lead programmer en el equipo de Security, Infrastructure and Performance (SIP) en 37signals, donde trabaja tanto en Basecamp (el producto) como en HEY (un servicio de email lanzado en 2020), gracias al cual desarolló una relación de amor-odio-estrés-post-traumático con todo lo que tenga que ver con email. Antes de eso trabajó en Plex, BeBanjo y Tuenti. <br/><br/>Le encantan las matemáticas, en especial todo lo que tenga que ver con teoría de la computación, los retos de programación sin sentido, los puzzles y aprender nuevos lenguajes (humanos y de programación).",
             "social": {
                 "twitter": "",
                 "linkedin": "",
-                "github": "",
+                "github": "https://github.com/rosa",
                 "gitlab": "",
-                "web": ""
+                "web": "https://rosa.codes/"
             },
             "talk": {
-                "title": "TBD",
-                "description": "TBD"
+                "title": "From SMTP to the I(m)box",
+                "description": "Es bastante normal trabajar en aplicaciones que envían email de alguna forma u otra, pero no tan normal tener que recibir email. <br/><br/>Aun más raro pero definitivamente más divertido y traumático, es construir un servicio de email completo donde nos ocupamos de todo, desde que un servidor de correo remoto contacta uno de nuestros servidores hasta que el email acaba en la bandeja de entrada, ahem... <a href='https://www.hey.com/features/the-imbox/' target='_blank'>imbox</a>, de uno de nuestros usuarios. <br/><br/>En esta charla os contaré cómo funciona todo esto en HEY y como, gracias al open source, recibir email en tu app puede ser bastante más sencillo de lo que parece."
             }
         },
         {
@@ -72,9 +72,9 @@ module.exports =
             "company": "Software Engineer @ Tinybird",
             "image": "/speakers/elena-torro.jpg",
             "name": "Elena Torró",
-            "bio": "Escribe código y crea herramientas para trabajar con datos en tiempo real en Tinybird. Se caracteriza porque le gusta escribir tests, apagar fuegos, y saber un poco de todo y mucho de nada. También escribe ciencia ficción y fantasía y habla de ello con sus amigas en DroidsAndDruids.",
+            "bio": "Escribe código y crea herramientas para trabajar con datos en tiempo real en Tinybird. <br/><br/>Se caracteriza porque le gusta escribir tests, apagar fuegos, y saber un poco de todo y mucho de nada. <br/><br/>También escribe ciencia ficción y fantasía y habla de ello con sus amigas en DroidsAndDruids.",
             "social": {
-                "twitter": "https://twitter.com/nyan_dev",
+                "twitter": "https://twitter.com/bytesandhumans",
                 "linkedin": "https://www.linkedin.com/in/elenatorro/",
                 "github": "",
                 "gitlab": "",
@@ -82,7 +82,7 @@ module.exports =
             },
             "talk": {
                 "title": "El Método Konmari aplicado a la Ingeniería de Datos",
-                "description": "¿Qué tienen en común mantener la casa en orden y hacer ingeniería de datos? Hace tiempo escribí un post medio de broma titulado 'El Método Konmari aplicado al desarrollo software', y me di cuenta de que tenía más sentido del que creía. Esa idea inicial evolucionó hasta lo que es esta charla, donde utilizo el Método Konmari como hilo conductor para explicar lo que he aprendido en los últimos años sobre ingeniería de datos."
+                "description": "¿Qué tienen en común mantener la casa en orden y hacer ingeniería de datos? <br/><br/>Hace tiempo escribí un post medio de broma titulado 'El Método Konmari aplicado al desarrollo software', y me di cuenta de que tenía más sentido del que creía. <br/><br/>Esa idea inicial evolucionó hasta lo que es esta charla, donde utilizo el Método Konmari como hilo conductor para explicar lo que he aprendido en los últimos años sobre ingeniería de datos."
             }
         },
         {
@@ -114,9 +114,9 @@ module.exports =
             "social": {
                 "twitter": "https://twitter.com/nuria_codes",
                 "linkedin": "",
-                "github": "",
+                "github": "https://github.com/nuria-fl",
                 "gitlab": "",
-                "web": ""
+                "web": "https://www.nuriasatorres.com/"
             },
             "talk": {
                 "title": "La respuesta a la gran pregunta sobre el sentido de la vida, el universo, y la asincronía en JavaScript",
@@ -133,7 +133,7 @@ module.exports =
             "social": {
                 "twitter": "https://twitter.com/ismanapa",
                 "linkedin": "",
-                "github": "",
+                "github": "https://github.com/ismanapa/",
                 "gitlab": "",
                 "web": ""
             },
@@ -148,7 +148,7 @@ module.exports =
             "company": "Senior Ruby Engineer @ Carwow",
             "image": "/speakers/meritxell-calvo.jpg",
             "name": "Meritxell Calvo",
-            "bio": "Meritxell Calvo es programadora senior especializada en el ecosistema Ruby. Lleva más de una década trabajado como programadora en diversos lenguajes y empresas locales e internacionales, ayudando a las organizaciones a implementar el paradigma ágil desde la base. Actualmente trabaja como Senior Engineer en Carwow.",
+            "bio": "Meritxell Calvo es programadora senior especializada en el ecosistema Ruby. <br/><br/>Lleva más de una década trabajado como programadora en diversos lenguajes y empresas locales e internacionales, ayudando a las organizaciones a implementar el paradigma ágil desde la base. <br/><br/>Actualmente trabaja como Senior Engineer en Carwow.",
             "social": {
                 "twitter": "https://twitter.com/nyan_dev",
                 "linkedin": "https://www.linkedin.com/in/meritxell-calvo-palanques-a70b4a58",
@@ -157,8 +157,8 @@ module.exports =
                 "web": ""
             },
             "talk": {
-                "title": "TBD",
-                "description": "TBD"
+                "title": "Evitando unsupported versions y otras elocuentes sorpresitas",
+                "description": "El 'working software' es la principal medida de progreso, sin embargo no siempre recibe la importancia que se merece. <br/><br/>¿Qué es realmente? ¿Cómo podemos asegurarlo? <br/><br/>En esta charla exploraremos los conceptos más internos y técnicos del agilismo: CI/CD reales, testing en producción, medición del impacto, iteraciones en base a valor añadido. Será una exposición agnóstica al lenguaje, aunque veremos casos de uso concretos y tampoco faltarán anécdotas y experiencias con las que, por suerte o por desgracia, podrás identificarte. <br/><br/>¡Te espero!"
             }
         },
         {
@@ -167,7 +167,7 @@ module.exports =
             "company": "Head of Engineering @ AtomicJar",
             "image": "/speakers/aleix-morgadas.jpg",
             "name": "Aleix Morgadas",
-            "bio": "Diseñadora de formación, hacedora de cosas de profesión. Llevo más de 20 años creando productos digitales: desde páginas WAP para teléfonos con botones a finales de los 90, a periódicos digitales, publicidad, redes sociales, software de diseño... vamos: que he visto de todo. Aún así, después de todo este tiempo el sector me sigue sorprendiendo.",
+            "bio": "Diseñadora de formación, hacedora de cosas de profesión. <br/><br/>Llevo más de 20 años creando productos digitales: desde páginas WAP para teléfonos con botones a finales de los 90, a periódicos digitales, publicidad, redes sociales, software de diseño... vamos: que he visto de todo. <br/><br/>Aún así, después de todo este tiempo el sector me sigue sorprendiendo.",
             "social": {
                 "twitter": "https://twitter.com/aleixmorgadas/",
                 "linkedin": "https://www.linkedin.com/in/aleixmorgadas/",
@@ -196,12 +196,12 @@ module.exports =
             },
             "talk": {
                 "title": "Tests e2e con Playwright",
-                "description": "¿Quien ha dicho que testing es aburrido y difícil? Voy a enseñarte que testing es divertido y mucho más fácil con herramientas como el Codegen, que genera tus tests, grabando tus user actions. Y lo mejor, es que podemos hacer casi todo desde VS Code. Ven a divertirte y a aprender un poco sobre testing con Playwright, una librería de testing e2e open source de Microsoft."
+                "description": "¿Quien ha dicho que testing es aburrido y difícil? <br/><br/>Voy a enseñarte que testing es divertido y mucho más fácil con herramientas como el Codegen, que genera tus tests, grabando tus user actions. <br/><br/>Y lo mejor, es que podemos hacer casi todo desde VS Code. <br/><br/>Ven a divertirte y a aprender un poco sobre testing con Playwright, una librería de testing e2e open source de Microsoft."
             }
         }
     ],
     "agenda": {
-        "visible": false,
+        "visible": true,
         "time_slots": ["9:00-9:20", "9:30-10:20", "10:30-11:20", "11:30-12:00", "12:00-12:50", "13:00-13:50", "13:50-14:00"],
         "tracks":[
             {
@@ -212,24 +212,24 @@ module.exports =
                         "content": "Presentación"
                     },
                     {
-                        "type": "speaker_group",
-                        "content": "nuria-soriano+isma-navarro"
+                        "type": "speaker",
+                        "content": "meritxell-calvo"
                     },
                     {
                         "type": "speaker",
-                        "content": "nuria-soriano"
+                        "content": "debbie-obrien"
                     },
                     {
                         "type": "text",
                         "content": "Coffee break"
                     },
                     {
-                        "type": "speaker",
-                        "content": "nuria-soriano"
+                        "type": "speaker_group",
+                        "content": "nuria-soriano+isma-navarro"
                     },
                     {
                         "type": "speaker",
-                        "content": "nuria-soriano"
+                        "content": "gloria-langreo"
                     },
                     {
                         "type": "text",
@@ -246,11 +246,11 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "nuria-soriano"
+                        "content": "rosa-gutierrez"
                     },
                     {
                         "type": "speaker",
-                        "content": "nuria-soriano"
+                        "content": "aleix-morgadas"
                     },
                     {
                         "type": "text",
@@ -258,11 +258,11 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "nuria-soriano"
+                        "content": "elena-torro"
                     },
                     {
                         "type": "speaker",
-                        "content": "nuria-soriano"
+                        "content": "gema-parreno"
                     },
                     {
                         "type": "text",
@@ -297,61 +297,97 @@ module.exports =
     "sponsor_blocks": [
         {
             "visible": true,
-            "name": "Con la colaboración de",
+            "name": "Patrocinador principal",
             "sponsors": [
                 {
                     "name": "Bilbao Ekintza",
                     "link": "https://www.bilbao.eus/BilbaoEkintza",
                     "image": "/sponsors/bilbao.png",
-                    "height_em": "12"
+                    "height_em": "16"
                 },
             ]
         },
         {
-            "visible": false,
+            "visible": true,
             "name": "Patrocinadores Platino",
             "sponsors": [
                 {
-                    "name": "Bilbao Ekintza",
-                    "link": "https://www.bilbao.eus/BilbaoEkintza",
-                    "image": "/sponsors/bilbao.png",
-                    "height_em": "12"
+                    "name": "FundacionBBK",
+                    "link": "https://www.bbk.eus/",
+                    "image": "/sponsors/bbk.png",
+                    "height_em": "5"
                 },
+                {
+                    "name": "LifullConnect",
+                    "link": "https://www.lifullconnect.com/",
+                    "image": "/sponsors/lifullconnect.png",
+                    "height_em": "4"
+                },
+                {
+                    "name": "PlainConcepts",
+                    "link": "https://www.plainconcepts.com/",
+                    "image": "/sponsors/plain-concepts.png",
+                    "height_em": "6"
+                }
             ]
         },
         {
-            "visible": false,
+            "visible": true,
             "name": "Patrocinadores Oro",
             "sponsors": [
                 {
-                    "name": "Bilbao Ekintza",
-                    "link": "https://www.bilbao.eus/BilbaoEkintza",
-                    "image": "/sponsors/bilbao.png",
-                    "height_em": "10"
+                    "name": "Cabify",
+                    "link": "https://cabify.com/es",
+                    "image": "/sponsors/cabify.png",
+                    "height_em": "3"
                 },
-            ]
-        },
-        {
-            "visible": false,
-            "name": "Patrocinadores Plata",
-            "sponsors": [
                 {
-                    "name": "Bilbao Ekintza",
-                    "link": "https://www.bilbao.eus/BilbaoEkintza",
-                    "image": "/sponsors/bilbao.png",
-                    "height_em": "7"
+                    "name": "OpenBank",
+                    "link": "https://www.openbank.es/",
+                    "image": "/sponsors/openbank.png",
+                    "height_em": "3"
                 },
-            ]
-        },
-        {
-            "visible": false,
-            "name": "Patrocinadores Bronce",
-            "sponsors": [
                 {
-                    "name": "Bilbao Ekintza",
-                    "link": "https://www.bilbao.eus/BilbaoEkintza",
-                    "image": "/sponsors/bilbao.png",
+                    "name": "LíbereTech",
+                    "link": "https://liberetech.com/",
+                    "image": "/sponsors/liberetech.png",
+                    "height_em": "4"
+                },
+                {
+                    "name": "seQura",
+                    "link": "https://www.sequra.es",
+                    "image": "/sponsors/sequra.png",
+                    "height_em": "2.7"
+                },
+                {
+                    "name": "KairosDS",
+                    "link": "https://www.kairosds.com/",
+                    "image": "/sponsors/kairosds.png",
+                    "height_em": "2.5"
+                },
+                {
+                    "name": "NTTData",
+                    "link": "https://es.nttdata.com/",
+                    "image": "/sponsors/ntt-data.png",
+                    "height_em": "2"
+                },
+                {
+                    "name": "VirtualWare",
+                    "link": "https://www.virtualwareco.com/",
+                    "image": "/sponsors/virtualware.png",
                     "height_em": "5"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "name": "Patrocinador guardería",
+            "sponsors": [
+                {
+                    "name": "Holaluz",
+                    "link": "https://www.holaluz.com",
+                    "image": "/sponsors/holaluz.png",
+                    "height_em": "2.5"
                 },
             ]
         },
