@@ -262,14 +262,20 @@ section{
             font-weight: bold;
         }
     }
-    .external-agenda {
+    #hashtag {
         a {
-            color: $secondary2;
+            color: $white;
             font-weight: bold;
         }
         a:hover {
             color: $primary;
             font-weight: bold;
+        }
+        span{
+            color: $secondary2;
+            display: inline-block;
+            background: $primary;
+            padding: 5px 10px;
         }
     }
 }

@@ -9,8 +9,6 @@ export default ({ agenda, speakers }) => {
   return (
     <section id="agenda">
       <div className="container">
-        <h2 className="external-agenda text-center"><a href="http://previa-2023.bilbostack.com/" target="_blank" rel="noopener noreferrer">Ver la agenda de #la_previa_de #bilbostack23 / 27 Enero, desde las 17pm</a></h2>
-        <br/>
         <h2 className="text-center">Agenda</h2>
         <div className="table-responsive-sm">
           <table
