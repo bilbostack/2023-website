@@ -167,7 +167,7 @@ module.exports =
             "company": "Head of Engineering @ AtomicJar",
             "image": "/speakers/aleix-morgadas.jpg",
             "name": "Aleix Morgadas",
-            "bio": "Diseñadora de formación, hacedora de cosas de profesión. <br/><br/>Llevo más de 20 años creando productos digitales: desde páginas WAP para teléfonos con botones a finales de los 90, a periódicos digitales, publicidad, redes sociales, software de diseño... vamos: que he visto de todo. <br/><br/>Aún así, después de todo este tiempo el sector me sigue sorprendiendo.",
+            "bio": "",
             "social": {
                 "twitter": "https://twitter.com/aleixmorgadas/",
                 "linkedin": "https://www.linkedin.com/in/aleixmorgadas/",
