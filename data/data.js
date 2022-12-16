@@ -167,7 +167,7 @@ module.exports =
             "company": "Head of Engineering @ AtomicJar",
             "image": "/speakers/aleix-morgadas.jpg",
             "name": "Aleix Morgadas",
-            "bio": "",
+            "bio": "Aleix Morgadas empezó su carrera como programador en startups como en grandes consultoras. Actualmente trabaja como Head of Engineering en AtomicJar, la empresa detrás de Testcontainers OSS y Testcontainers Cloud. <br/><br/>Entre sus temas favoritos están la arquitectura, modelado de dominios, sistemas, y como todo ello es solo posible gracias a las personas.",
             "social": {
                 "twitter": "https://twitter.com/aleixmorgadas/",
                 "linkedin": "https://www.linkedin.com/in/aleixmorgadas/",
