@@ -319,7 +319,7 @@ module.exports =
                 },
                 {
                     "name": "LifullConnect",
-                    "link": "https://www.lifullconnect.com/",
+                    "link": "https://www.lifullconnect.com/engineering/",
                     "image": "/sponsors/lifullconnect.png",
                     "height_em": "4"
                 },
