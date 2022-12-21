@@ -312,10 +312,10 @@ module.exports =
             "name": "Patrocinadores Platino",
             "sponsors": [
                 {
-                    "name": "FundacionBBK",
-                    "link": "https://www.bbk.eus/",
-                    "image": "/sponsors/bbk.png",
-                    "height_em": "5"
+                    "name": "BBK Bootcamp by The Bridge",
+                    "link": "https://bbkbootcamps.thebridge.tech/",
+                    "image": "/sponsors/bbk-bootcamp.png",
+                    "height_em": "3.8"
                 },
                 {
                     "name": "LifullConnect",
