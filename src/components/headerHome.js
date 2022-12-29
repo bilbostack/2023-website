@@ -37,7 +37,7 @@ const HeaderHome = ({ data }) => {
                   rel="noopener noreferrer">
                     opciones de patrocinio
                 </a> 👈
-              </span>
+              </span><br/>
             </h5>
           </div>
           <div id="hashtag">
