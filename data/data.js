@@ -315,19 +315,19 @@ module.exports =
                     "name": "BBK Bootcamp by The Bridge",
                     "link": "https://bbkbootcamps.thebridge.tech/",
                     "image": "/sponsors/bbk-bootcamp.png",
-                    "height_em": "3.8"
+                    "height_em": "auto"
                 },
                 {
                     "name": "LifullConnect",
                     "link": "https://www.lifullconnect.com/engineering/",
                     "image": "/sponsors/lifullconnect.png",
-                    "height_em": "4"
+                    "height_em": "auto"
                 },
                 {
                     "name": "PlainConcepts",
                     "link": "https://www.plainconcepts.com/",
                     "image": "/sponsors/plain-concepts.png",
-                    "height_em": "6"
+                    "height_em": "auto"
                 }
             ]
         },
@@ -375,7 +375,13 @@ module.exports =
                     "name": "VirtualWare",
                     "link": "https://www.virtualwareco.com/",
                     "image": "/sponsors/virtualware.png",
-                    "height_em": "5"
+                    "height_em": "5.5"
+                },
+                {
+                    "name": "Sngular",
+                    "link": "https://www.sngular.com/es/",
+                    "image": "/sponsors/sngular.png",
+                    "height_em": "2.3"
                 }
             ]
         },
