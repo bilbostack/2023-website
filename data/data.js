@@ -217,7 +217,7 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "debbie-obrien"
+                        "content": "aleix-morgadas"
                     },
                     {
                         "type": "text",
@@ -250,7 +250,7 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "aleix-morgadas"
+                        "content": "debbie-obrien"
                     },
                     {
                         "type": "text",
