@@ -7,6 +7,7 @@ export default {
     "tracks":[
         {
             "name": "Olympia Room",
+            "link": "",
             "content_in_slots": [
                 {
                     "type": agendaSlotType.SPEAKER,
@@ -20,6 +21,7 @@ export default {
         },
         {
             "name": "Niza",
+            "link": "",
             "content_in_slots": [
                 {
                     "type": agendaSlotType.SPEAKER,

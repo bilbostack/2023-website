@@ -206,6 +206,7 @@ module.exports =
         "tracks":[
             {
                 "name": "Sala 0B",
+                "link": "https://www.euskaldunabilbao.com/espacios/sala-0b/",
                 "content_in_slots": [
                     {
                         "type": "text",
@@ -239,6 +240,7 @@ module.exports =
             },
             {
                 "name": "Sala 0D",
+                "link": "https://www.euskaldunabilbao.com/espacios/sala-0d/",
                 "content_in_slots": [
                     {
                         "type": "text",

@@ -50,6 +50,7 @@ module.exports =
         "tracks":[
             {
                 "name": "Olympia Room",
+                "link": "",
                 "content_in_slots": [
                     {
                         "type": "speaker",
@@ -63,6 +64,7 @@ module.exports =
             },
             {
                 "name": "Niza",
+                "link": "",
                 "content_in_slots": [
                     {
                         "type": "speaker",

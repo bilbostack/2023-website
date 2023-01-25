@@ -20,7 +20,15 @@ export default ({ agenda, speakers }) => {
                 <th>&nbsp;</th>
                 {tracks.map((track, index) => (
                   <th key={index} width="40%">
-                    {track.name}
+                    {track.link ? (
+                      <div id="track">
+                        <a href={track.link} target="_blank" rel="noopener noreferrer">
+                          {track.name}
+                        </a>
+                      </div>
+                    ) : (
+                      track.name
+                    )}
                   </th>
                 ))}
               </tr>

@@ -128,6 +128,7 @@ export const query = graphql`
           time_slots
           tracks {
             name
+            link
             content_in_slots {
               type
               content
